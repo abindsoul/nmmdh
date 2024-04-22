@@ -1,0 +1,245 @@
+[
+    {
+        "id": "1",
+        "text": "文档库",
+        "path": "/tools",
+        "content": [
+            {
+                "title": "vue3中文文档",
+                "url": "https://cn.vuejs.org/"
+            },
+            {
+                "title": "vue3英文文档",
+                "url": "https://vuejs.org/"
+            },
+            {
+                "title": "vue2中文文档",
+                "url": "https://v2.cn.vuejs.org/v2/api/"
+            },
+            {
+                "title": "vue-router3中文文档",
+                "url": "https://router.vuejs.org/"
+            },
+            {
+                "title": "vue-router4中文文档",
+                "url": "https://router.vuejs.org/zh/"
+            },
+            {
+                "title": "vueuse中文文档",
+                "url": "https://www.vueusejs.com/"
+            },
+            {
+                "title": "vueuse英文文档",
+                "url": "https://vueuse.org/"
+            },
+            {
+                "title": "vuex4中文文档",
+                "url": "https://vuex.vuejs.org/zh/"
+            },
+            {
+                "title": "vuex3中文文档",
+                "url": "https://v3.vuex.vuejs.org/zh/"
+            },
+            {
+                "title": "Vue3 One Piece",
+                "url": "https://vue3js.cn/"
+            },
+            {
+                "title": "uniapp中文文档",
+                "url": "https://uniapp.dcloud.net.cn/"
+            },
+            {
+                "title": "正则表达式",
+                "url": "https://tool.oschina.net/uploads/apidocs/jquery/regexp.html"
+            },
+            {
+                "title": "框架对比英文",
+                "url": "https://component-party.dev/"
+            },
+            {
+                "title": "框架对比中文",
+                "url": "https://component-party.jason-liang.com/"
+            },
+            {
+                "title": "程序员备忘录",
+                "url": "https://quickref.hestudio.net"
+            },
+            {
+                "title": "nuxt3英文文档",
+                "url": "https://nuxt.com/"
+            },
+            {
+                "title": "nuxt3中文文档",
+                "url": "https://nuxt.com.cn/"
+            },
+            {
+                "title": "nuxt2英文文档",
+                "url": "https://v2.nuxt.com/"
+            },
+            {
+                "title": "nuxt2中文文档",
+                "url": "https://www.nuxtjs.cn/"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "text": "动画库",
+        "path": "/animation",
+        "content": [
+            {
+                "title": "Framer Motion",
+                "url": "https://www.framer.com/motion/"
+            },
+            {
+                "title": "Animate.css",
+                "url": "https://animate.style/"
+            },
+            {
+                "title": "下雪特效",
+                "url": "https://www.zachleat.com/web/snow-fall"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "text": "刷题库",
+        "path": "/ques",
+        "content": [
+            {
+                "title": "vue刷题",
+                "url": "https://guozia007.gitee.io/brush-audition/#/"
+            },
+            {
+                "title": "综合八股",
+                "url": "https://top.interviewguide.cn/"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "text": "接口库",
+        "path": "/interface",
+        "content": [
+            {
+                "title": "Fire base模拟数据库",
+                "url": "https://console.firebase.google.com/"
+            },
+            {
+                "title": "现实摄影图片",
+                "url": "https://picsum.photos/"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "text": "书籍库",
+        "path": "/book",
+        "content": [
+            {
+                "title": "书栈网(免费)",
+                "url": "https://www.bookstack.cn/"
+            },
+            {
+                "title": "码农书籍(收费)",
+                "url": "https://www.manongbook.com/"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "text": "组件库",
+        "path": "/ui",
+        "content": [
+            {
+                "title": "bootstrop中文文档",
+                "url": "https://www.bootcss.com/"
+            },
+            {
+                "title": "uview组件库",
+                "url": "https://www.uviewui.com/"
+            },
+            {
+                "title": "Arco Design Vue",
+                "url": "https://arco.design/vue/docs/start"
+            },
+            {
+                "title": "Vuetify UI",
+                "url": "https://vuetifyjs.com/zh-Hans/"
+            },
+            {
+                "title": "炫酷组件",
+                "url": "https://uiverse.io"
+            },
+            {
+                "title": "炫酷组件2",
+                "url": "https://navnav.co/"
+            },
+            {
+                "title": "Ant design",
+                "url": "https://ant.design/components/overview-cn"
+            },
+            {
+                "title": "fontawesome图标",
+                "url": "https://fontawesome.com.cn/v5"
+            },
+            {
+                "title": "阿里巴巴矢量图库",
+                "url": "https://www.iconfont.cn/"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "text": "插件库",
+        "path": "/npm",
+        "content": [
+            {
+                "title": "进度条",
+                "url": "https://www.npmjs.com/package/nprogress"
+            },
+            {
+                "title": "gsap数字滚动",
+                "url": "https://www.npmjs.com/package/gsap"
+            },
+            {
+                "title": "bcryptjs密码加密",
+                "url": "https://www.npmjs.com/package/bcryptjs"
+            },
+            {
+                "title": "vite看编译后的文件",
+                "url": "https://www.npmjs.com/package/vite-plugin-inspect"
+            },
+            {
+                "title": "vue2骨架屏",
+                "url": "https://www.npmjs.com/package/skeleton-loader-vue"
+            },
+            {
+                "title": "vux本地存储",
+                "url": "https://www.npmjs.com/package/vuex-persistedstate"
+            },
+            {
+                "title": "判断移动端",
+                "url": "https://www.npmjs.com/package/current-device"
+            },
+            {
+                "title": "快速定位元素",
+                "url": "https://github.com/zh-lx/code-inspector"
+            },
+            {
+                "title": "jq插件",
+                "url": "https://www.jq22.com/"
+            },
+            {
+                "title": "cdnjs",
+                "url": "https://cdnjs.com/"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "text": "自定义",
+        "path": "/custom",
+        "content": []
+    }
+]

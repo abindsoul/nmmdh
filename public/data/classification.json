@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "text": "文档库",
+        "path": "/tools"
+    },
+    {
+        "id": "2",
+        "text": "动画库",
+        "path": "/animation"
+    },
+    {
+        "id": "3",
+        "text": "刷题库",
+        "path": "/ques"
+    },
+    {
+        "id": "4",
+        "text": "接口库",
+        "path": "/interface"
+    },
+    {
+        "id": "5",
+        "text": "书籍库",
+        "path": "/book"
+    },
+    {
+        "id": "6",
+        "text": "组件库",
+        "path": "/ui"
+    },
+    {
+        "id": "7",
+        "text": "插件库",
+        "path": "/npm"
+    },
+    {
+        "id": "8",
+        "text": "自定义",
+        "path": "/custom"
+    }
+]
