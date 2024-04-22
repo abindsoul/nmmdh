@@ -17,7 +17,7 @@
 ## 克隆到本地 😮‍💨
 
 ```bash
-git clone https://github.com/ChenYuXuan/navigation.git
+git clone https://github.com/abindsoul/nmmdh.git
 ```
 
 ## 安装依赖
