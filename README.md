@@ -10,14 +10,14 @@
 本导航收录了个人目前常常使用到的文档，当然也开发了自定义的模块
 只需要输入你的导航名称和链接就可以将它保存在本地了，所以要注意清除浏览器缓存时可能会导致自己加入的链接都消失哦。
 
-预览地址请 [戳这里]()
+预览地址请 [戳这里](https://nmmdh.site/)
 
-更多信息请 [前往博客](https://nuxt.com/docs/getting-started/introduction) .
+更多信息请 [前往博客](https://afreesoul.top/index.php/archives/104/) .
 
 ## 克隆到本地 😮‍💨
 
 ```bash
-git clone https://github.com/ChenYuXuan/navigation.git
+git clone https://github.com/abindsoul/nmmdh.git
 ```
 
 ## 安装依赖
@@ -110,4 +110,4 @@ yarn build
 
 感谢 [我自己](https://www.afreesoul.top/) 进行开发嘿嘿嘿
 
-##  喜欢的话可以点个小小的start 😭
+##  喜欢的话可以点个小小的star 😭
