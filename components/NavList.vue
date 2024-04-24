@@ -38,7 +38,7 @@ const props = defineProps({
 
 .home-nav {
     @media (max-width: 1000px) {
-        padding: 1rem;
+        padding: 0.8rem;
     }
 }
 </style>

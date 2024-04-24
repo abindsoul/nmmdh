@@ -29,4 +29,5 @@ nuxtApp.hook('app:mounted', async () => {
 });
 const { data: list } = await useFetch('/api/allList');
 const { data: content } = await useFetch('/api/content');
+
 </script>
