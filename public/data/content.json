@@ -79,6 +79,10 @@
             {
                 "title": "nuxt2中文文档",
                 "url": "https://www.nuxtjs.cn/"
+            },
+            {
+                "title": "ES6教程",
+                "url": "https://wangdoc.com/es6/"
             }
         ]
     },
@@ -238,6 +242,29 @@
     },
     {
         "id": "8",
+        "text": "工具库",
+        "path": "/utils",
+        "content": [
+            {
+                "title": "MDN(前端首推)",
+                "url": "https://developer.mozilla.org/zh-CN/"
+            },
+            {
+                "title": "菜鸟教程",
+                "url": "https://developer.mozilla.org/zh-CN/"
+            },
+            {
+                "title": "w3cschool中文",
+                "url": "https://www.w3school.com.cn/"
+            },
+            {
+                "title": "w3cschool英文",
+                "url": "https://www.w3schools.com/"
+            }
+        ]
+    },
+    {
+        "id": "9",
         "text": "自定义",
         "path": "/custom",
         "content": []
